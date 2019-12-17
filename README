@@ -1,0 +1,9 @@
+ECE 470 UIUC
+Fall 2019
+Final Project
+Matt Markowski: markwsk2
+
+Using any python console, FinalProject.py must be run when V-REP simulation UR3 with Pen.ttt is running.
+I used Spyder as my python dev environment.
+
+Make sure all python files within the same directory.
